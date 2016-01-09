@@ -1,5 +1,5 @@
-<a href="url"><img src="https://github.com/ogencoglu/SGN41006_Spring2016/blob/master/tut_logo.png" align="left"  width="600" ></a>
-
+<a href="url"><img src="https://github.com/ogencoglu/SGN41006_Spring2016/blob/master/tut_logo.png" align="left"  width="400" ></a>
+<br>
 SGN 41006 - Signal Interpretation - Spring 2016
 =======
 
