@@ -33,4 +33,4 @@ To be announced...
 
 
 ## Contact
-oguzhan.gencoglu@tut.fi, andrei.cramariuc@student.tut.fi
+oguzhan.gencoglu@tut.fi (Office: TE406), andrei.cramariuc@student.tut.fi
