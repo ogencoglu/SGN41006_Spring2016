@@ -7,7 +7,7 @@ SGN 41006 - Signal Interpretation - Spring 2016
 This is the github page of the course *SGN 41006 - Signal Interpretation* for the spring semester of 2016. 
 Solutions of the programming exercises will be announced here.
 
-Course Page: http://www.cs.tut.fi/courses/SGN-41006/
+Course Page: http://www.cs.tut.fi/courses/SGN-41006/ or http://www.cs.tut.fi/kurssit/SGN-41006/
 
 Overview
 ------------
