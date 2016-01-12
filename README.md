@@ -18,13 +18,13 @@ Tuesdays at 10-12 in TB111
 Fridays at 10-12 in TB111
 
 #### Exercises:
-Wednesday 10-12 in TC407 (English and Finnish)
+Wednesday 10-12 in TC407 (English and Finnish) - Andrei
 
-Wednesday 12-14 in TC407 (English)
+Wednesday 12-14 in TC407 (English) - Oguzhan
 
-Wednesday 14-16 in TC407 (English)
+Wednesday 14-16 in TC407 (English) - Oguzhan
 
-Thursday  10-12 in TC407 (English and Finnish)
+Thursday  10-12 in TC407 (English and Finnish) - Andrei
 
 Project
 --------
