@@ -62,8 +62,7 @@ if __name__ == '__main__':
     
     # apply white tophead transform
     plt.figure()
-    plt.imshow(white_tophat(im, size = 10))
-    plt.show()   
+    plt.imshow(white_tophat(im, size = 10))  
     
     '''
     Question 4 & 5
@@ -78,7 +77,8 @@ if __name__ == '__main__':
     plt.figure()
     plt.plot(X[y == 0, 0], X[y == 0, 1], 'ro')
     plt.plot(X[y == 1, 0], X[y == 1, 1], 'bo')
-
+    plt.show() 
+    
 
     # define scaling function
     def normalize_data(array):
