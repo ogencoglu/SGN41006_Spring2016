@@ -29,7 +29,9 @@ Thursday  10-12 in TC407 (English and Finnish) - Andrei
 Project
 --------
 
-To be announced...
+TUT Copper Analysis Challenge:
+
+https://inclass.kaggle.com/c/copper-analysis
 
 
 ## Contact
